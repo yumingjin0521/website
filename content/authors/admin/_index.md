@@ -23,8 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 Research Interests:
 - Global Climate Change
 - CO<sub>2</sub> and O<sub>2</sub> Cycle 
-- Air-sea Gas Exchange
-- Large-Scale Atmospheric Dynamics
+
 
 education:
   courses:

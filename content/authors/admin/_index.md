@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-Yuming Jin is a second-year Ph.D. student at Scripps Institution of Oceanography, University of Carlifornia San Diego working with [Prof. Ralph Keeling](https://rkeeling.scrippsprofiles.ucsd.edu/). He study the exchange of CO<sub>2</sub> and O<sub>2</sub> between four reservoirs: the biosphere (photosynthesis and respiration), the lithosphere (soil and fossil pool), the hydrosphere (surface and deep ocean), and the atmosphere, with the time scale from synoptic to interannual. The temporal variability of these exchanges are important for studying the global climate change. 
+Yuming Jin is a second-year Ph.D. student at Scripps Institution of Oceanography, University of Carlifornia San Diego working with [Prof. Ralph Keeling](https://rkeeling.scrippsprofiles.ucsd.edu/). He studies the exchange of CO<sub>2</sub> and O<sub>2</sub> between four reservoirs: the biosphere (photosynthesis and respiration), the lithosphere (soil and fossil pool), the hydrosphere (surface and deep ocean), and the atmosphere, with the time scale from synoptic to interannual. The temporal variabilities of these exchanges are important for studying the global climate change. 
 
 Yuming earned a B.S. degree in Environmental Sciences from Donghua University, with research on waste water remediation. 
 

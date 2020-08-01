@@ -14,7 +14,7 @@ role: Ph.D. Student, Climate Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Scripps Institution of Oceanography
+- name: Scripps Institution of Oceanography, University of California San Diego
   url: "https://scripps.ucsd.edu/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -42,10 +42,10 @@ social:
   icon_pack: fas
   link: "mailto:y2jin@ucsd.edu"
 - icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   link: https://twitter.com/yumingjin0521
 - icon: google-scholar
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=x_6_0k0AAAAJ
 - icon: github
   icon_pack: fab

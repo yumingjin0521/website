@@ -46,7 +46,7 @@ social:
   link: https://twitter.com/yumingjin0521
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=x_6_0k0AAAAJ&view_op=list_works&gmla=AJsN-F6UITpN7d8nXsZ-LMuH0umv7vETJYopA6OpCtLr2PWqkFJcf-rxyy_s3TrcVPWrmQmCk8vMvPUrjMDqIHhc4MZS-m0HOWsoLW8CZbMY-BzWxm_yK5o
+  link: https://scholar.google.com/citations?hl=en&user=x_6_0k0AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/yumingjin0521/

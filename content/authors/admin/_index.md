@@ -20,9 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+Research Interests:
 - Global Climate Change
-- Carbon Dioxide Cycle CO<sub>2<\sub>
+- CO<sub>2</sub> and O<sub>2</sub> Cycle 
+- Air-sea Gas Exchange
+- Large-Scale Atmospheric Dynamics
 
 education:
   courses:

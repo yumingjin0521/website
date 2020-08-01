@@ -4,7 +4,7 @@ title: Yuming Jin
 
 # Username (this should match the folder name)
 authors:
-- admin
+- yuming jin
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ education:
   courses:
   - course: BSc in Environmental Sciences
     institution: Donghua University, Shanghai, China
-    year: 2014
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +43,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/yumingjin0521
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yumingjin0521
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

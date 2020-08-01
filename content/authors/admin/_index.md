@@ -15,7 +15,7 @@ role: Ph.D. Student, Climate Sciences
 # Organizations/Affiliations
 organizations:
 - name: Scripps Institution of Oceanography
-  url: ""
+  url: "https://scripps.ucsd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,10 +46,10 @@ social:
   link: https://twitter.com/yumingjin0521
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=x_6_0k0AAAAJ&view_op=list_works&gmla=AJsN-F6UITpN7d8nXsZ-LMuH0umv7vETJYopA6OpCtLr2PWqkFJcf-rxyy_s3TrcVPWrmQmCk8vMvPUrjMDqIHhc4MZS-m0HOWsoLW8CZbMY-BzWxm_yK5o
 - icon: github
   icon_pack: fab
-  link: https://github.com/yumingjin0521
+  link: https://github.com/yumingjin0521/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

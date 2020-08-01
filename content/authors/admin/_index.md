@@ -23,19 +23,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Global Climate Change
 - CO<sub>2</sub> and O<sub>2</sub> Cycle 
+- Air-sea Gas Exchange
+- Large-Scale Atmospheric Dynamics
 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Environmental Sciences
+    institution: Donghua University, Shanghai, China
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

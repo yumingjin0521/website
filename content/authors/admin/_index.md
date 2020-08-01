@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Climate Sciences
+role: Ph.D. Student, Climate Sciences
 
 # Organizations/Affiliations
 organizations:

@@ -4,7 +4,7 @@ title: Yuming Jin
 
 # Username (this should match the folder name)
 authors:
-- yuming jin
+- admin
 
 # Is this the primary user of the site?
 superuser: true

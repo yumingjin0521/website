@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Global Climate Change
-- Carbon Dioxide Cycle CO[2]
+- Carbon Dioxide Cycle CO<sub>2<\sub>
 
 education:
   courses:
